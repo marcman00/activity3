@@ -1,4 +1,11 @@
 /* styles.css */
+
+/* Body background */
+body {
+	background-color: lightblue;
+}
+
+/* Menu bar at top */
 nav ul {
     list-style-type: none;
     margin: 0;
@@ -27,6 +34,7 @@ nav li a:hover {
     background-color: #4CAF50;
 }
 
+/* Sections */
 section {
  display: flex;
 }
